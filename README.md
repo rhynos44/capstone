@@ -13,7 +13,7 @@ Upon first look, there are multiple categorical features.  Usually, simply encod
 
 ## Results
 
-![alt text](auc_roc.png "Model Results")
+![alt text](roc_auc.png "Model Results")
 
 The ROC-curve shows that the test data generalized nicely and that the model predicted true positives with a satisfactory frequency.
 
